@@ -4,3 +4,6 @@ For testing purpose
 -This is my second commit. I am getting better at Git
 -This is my one time commit
 -This is my third commit
+-Commit and squash
+-commit
+-Git lesson on branches 
